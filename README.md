@@ -3,6 +3,24 @@
 ## Goal
 Create customer segments using RFM plus behavioral/support signals, recommend actions, and prepare manual review cases.
 
+## Project Structure
+
+```text
+part2_rfm_retention/
+├── data/                    # Raw capstone datasets & data dictionary
+├── outputs/
+│   ├── figures/             # Visualizations (e.g. segment churn rates)
+│   └── tables/              # Segment summaries and targeted customer lists
+├── src/
+│   └── rfm_segmentation.py  # Main script for RFM modeling and segmentation
+├── manual_review_cases.md   # Profiles of specific customers flagged for human review
+├── rfm_segmentation.ipynb   # Notebook running the RFM segmentation
+├── retention_strategy.md    # Retention tactics, budgets, and action plans
+├── segments.csv             # Output CSV file containing segmented customers
+├── README.md                # Project documentation and developer info
+└── requirements.txt         # Python dependencies
+```
+
 ## How to run
 
 ```bash
