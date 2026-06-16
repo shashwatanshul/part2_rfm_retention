@@ -26,3 +26,10 @@ jupyter nbconvert --to notebook --execute rfm_segmentation.ipynb --inplace
 - `retention_strategy.md`
 - `manual_review_cases.md`
 - supporting tables in `outputs/tables/`
+
+## Developer Information
+
+- **Developer:** Shashwat SIngh
+- **Student Code:** IITP_AIML_2506887
+- **Email:** shashwatanshul@gmail.com
+

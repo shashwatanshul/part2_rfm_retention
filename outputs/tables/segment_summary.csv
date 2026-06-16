@@ -1,0 +1,10 @@
+segment_name,customers,avg_recency,avg_frequency,avg_monetary,avg_return_rate,avg_ticket_count_90d,avg_sessions_30d,observed_churn_rate
+General Nurture,792,72.509,1.854,1385.108,0.074,0.22,4.324,0.484
+At-Risk High Value,355,156.518,5.256,4343.909,0.053,0.042,4.152,0.766
+Champions,323,20.737,6.313,4872.011,0.06,0.347,7.146,0.108
+Loyal Customers,278,78.601,5.306,3718.253,0.064,0.227,5.755,0.367
+Discount Sensitive,260,62.662,2.165,1368.009,0.062,0.246,6.465,0.431
+Dormant,200,222.46,1.3,948.135,0.062,0.0,2.77,0.91
+New Engaged Potential,81,26.457,1.099,799.449,0.062,0.222,11.012,0.185
+High Intent Non-Converters,66,61.803,2.03,1490.078,0.045,0.167,12.364,0.288
+Needs Service Recovery,45,25.689,5.2,3516.521,0.262,2.067,7.867,0.156

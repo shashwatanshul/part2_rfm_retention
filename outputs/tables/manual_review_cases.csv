@@ -1,0 +1,11 @@
+customer_id,segment_name,recency,frequency,monetary,return_rate,ticket_count_90d,negative_ticket_rate_90d,sessions_30d,abandoned_carts_30d,manual_priority_bucket
+CUST02272,Needs Service Recovery,59,11,8117.28,0.18181818181818182,2.0,1.0,13,1,medium
+CUST00968,At-Risk High Value,98,6,6505.79,0.0,1.0,1.0,12,1,high
+CUST00144,At-Risk High Value,86,9,6186.54,0.1111111111111111,1.0,1.0,8,0,high
+CUST01941,Loyal Customers,47,9,5847.1900000000005,0.1111111111111111,1.0,1.0,11,3,medium
+CUST01492,Loyal Customers,62,4,5478.3,0.5,1.0,1.0,10,1,medium
+CUST00484,Loyal Customers,62,5,5407.55,0.2,1.0,1.0,9,0,medium
+CUST01991,Loyal Customers,65,7,5405.02,0.14285714285714285,1.0,1.0,8,1,medium
+CUST00409,Loyal Customers,58,7,4946.35,0.42857142857142855,1.0,1.0,11,2,medium
+CUST01420,Loyal Customers,67,4,4338.21,0.0,1.0,0.0,14,2,medium
+CUST01976,At-Risk High Value,100,5,4264.75,0.2,1.0,1.0,15,4,high
